@@ -1,0 +1,12 @@
+Charizard; Fire; 100; 50; 20; 29
+Arcanine; Fire; 90; 45; 25; 15 
+Magmar; Fire; 80; 40; 30; 30
+Blastoise; Water; 110; 55; 15; 38
+Vaporeon; Water; 95; 50; 20; 27
+Gyarados; Water; 120; 60; 10; 29
+Venusaur; Grass;  105; 45; 25; 35;
+Exeggutor; Grass; 85; 35; 35; 40
+Tangela; Grass; 75; 30; 40; 18
+Raichu; Light; 95; 50; 20; 32
+Jolteon; Light; 90; 45; 25; 17
+Zapdos; Light; 110; 60; 10; 30
